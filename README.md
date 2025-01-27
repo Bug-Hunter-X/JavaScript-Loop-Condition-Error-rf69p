@@ -1,0 +1,1 @@
+This repository demonstrates a common error in JavaScript loops where the loop condition is not properly checked or handled. The example shows an infinite loop and provides a solution with proper loop termination.
